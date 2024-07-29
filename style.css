@@ -1,0 +1,25 @@
+body {
+    background-color: #134074;
+}
+
+h4 {
+    border: rgb(28, 0, 31) double 3px;
+}
+
+li {
+    color: rgb(3, 39, 3);
+    font-size: 20px;
+}
+
+.deuses {
+    color: indigo;
+    
+}
+
+#cabecalho {
+    background-color: darkblue;
+}
+
+div p {
+    color: seagreen;
+}
